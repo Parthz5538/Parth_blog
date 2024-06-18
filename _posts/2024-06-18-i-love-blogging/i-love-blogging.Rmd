@@ -1,0 +1,19 @@
+
+---
+title: "My First Post"
+description: "A description of my first post"
+author:
+  - name: "Parth Chandan"
+date: 2024-06-18
+output: 
+  distill::distill_article:
+    self_contained: false
+---
+## Why do i love blogging
+
+
+1.I always wanted a blog page of my own
+
+##why not Blog
+rmarkdown::render_site()
+

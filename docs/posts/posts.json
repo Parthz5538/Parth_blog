@@ -1,19 +1,53 @@
 [
   {
+    "path": "posts/2024-06-18-i-love-blogging/",
+    "title": "My First Post",
+    "description": "A description of my first post",
+    "author": [
+      {
+        "name": "Parth Chandan",
+        "url": {}
+      }
+    ],
+    "date": "2024-06-18",
+    "categories": [],
+    "contents": "\nWhy do i love blogging\n1.I always wanted a blog page of my own\n##why not Blog\nrmarkdown::render_site()\n\n\n\n",
+    "preview": {},
+    "last_modified": "2024-06-18T15:55:19+10:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Parth Blog",
     "description": "Welcome to our new blog, Parth Blog. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Parth Chandan",
+        "url": {}
       }
     ],
     "date": "2024-06-18",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nI was born in Mumbai\n\n\n\n",
     "preview": {},
-    "last_modified": "2024-06-18T11:39:12+10:00",
+    "last_modified": "2024-06-18T15:40:30+10:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2024-06-18-i-love-blogging2/",
+    "title": "I love blogging2",
+    "description": "Just how much i like Except I never do...",
+    "author": [
+      {
+        "name": "Parth Chandan",
+        "url": {}
+      }
+    ],
+    "date": "2024-06-06",
+    "categories": [],
+    "contents": "\nthis are some thoughts how useful blogging is for self reflection on health data science\n\n\nplot(iris)\n\n\n\nrmarkdown::render_site()\n\n\n\n",
+    "preview": "posts/2024-06-18-i-love-blogging2/i-love-blogging2_files/figure-html5/unnamed-chunk-1-1.png",
+    "last_modified": "2024-06-18T15:53:58+10:00",
     "input_file": {}
   }
 ]

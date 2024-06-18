@@ -3,6 +3,7 @@ title: "Parth Blog"
 description: |
   Parth Blog
 output_dir: "docs"
+listing: _posts
 navbar:
   right:
     - text: "Home"
